@@ -71,7 +71,7 @@ export default function Home() {
   const testimonials = [
     {
       quote:
-        "Careerimagined connected me with mentors I never thought I'd have access to. The conversations changed my career trajectory.",
+        "careerReimagined connected me with mentors I never thought I'd have access to. The conversations changed my career trajectory.",
       author: "Priya M.",
       role: "Product Designer",
       image: "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100",
@@ -85,7 +85,7 @@ export default function Home() {
     },
     {
       quote:
-        "The authentic conversations I found through Careerimagined were exactly what I needed when transitioning careers.",
+        "The authentic conversations I found through careerReimagined were exactly what I needed when transitioning careers.",
       author: "Sarah J.",
       role: "Marketing Director",
       image: "/placeholder.svg?height=100&width=100",
@@ -253,7 +253,7 @@ export default function Home() {
                 The Movement
               </div>
               <GradientText
-                text="Why Careerimagined?"
+                text="Why careerReimagined?"
                 className="mb-6 text-3xl font-bold leading-tight tracking-tight sm:text-4xl md:text-5xl"
               />
               <div className="mx-auto max-w-2xl space-y-4 text-lg text-white/70">
@@ -317,7 +317,7 @@ export default function Home() {
             />
             <p className="mx-auto max-w-2xl text-lg text-white/70">
               Whether it's a rooftop roundtable, an invite-only dinner, or a virtual gathering with bold thinkers —
-              every Careerimagined event is designed to give you proximity to real leadership.
+              every careerReimagined event is designed to give you proximity to real leadership.
             </p>
           </motion.div>
 
@@ -493,7 +493,7 @@ export default function Home() {
               to="to-purple-400"
             />
             <p className="mx-auto max-w-2xl text-lg text-white/70">
-              Careerimagined is not a platform for passive observers. It's a place to participate, share, grow — and
+              careerReimagined is not a platform for passive observers. It's a place to participate, share, grow — and
               belong to something larger than a LinkedIn connection.
             </p>
           </motion.div>

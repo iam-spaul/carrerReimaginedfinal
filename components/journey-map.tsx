@@ -35,8 +35,8 @@ export function JourneyMap() {
     },
     {
       year: "2022",
-      title: "Careerimagined Born",
-      description: "Founded Careerimagined to create access to real mentorship",
+      title: "careerReimagined Born",
+      description: "Founded careerReimagined to create access to real mentorship",
       icon: "🚀",
     },
   ]

@@ -41,7 +41,7 @@ export function FounderHero() {
             />
             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-4">
               <p className="text-center font-bold text-white">Peali Sarkar</p>
-              <p className="text-center text-sm text-white/70">Founder, Careerimagined</p>
+              <p className="text-center text-sm text-white/70">Founder, careerReimagined</p>
             </div>
           </div>
         </motion.div>

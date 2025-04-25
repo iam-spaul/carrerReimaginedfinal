@@ -29,7 +29,7 @@ export function EnhancedTestimonials() {
       company: "TechCorp",
       image: "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=400",
       quote:
-        "Careerimagined connected me with mentors I never thought I'd have access to. The conversations I've had through their events have shaped my leadership style in profound ways. Peali has created something truly special here.",
+        "careerReimagined connected me with mentors I never thought I'd have access to. The conversations I've had through their events have shaped my leadership style in profound ways. Peali has created something truly special here.",
       rating: 5,
       location: "Toronto, Canada",
     },
@@ -40,7 +40,7 @@ export function EnhancedTestimonials() {
       company: "StartupX",
       image: "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=400",
       quote:
-        "As someone early in my career, I was struggling to find direction. The Leadership Circles at Careerimagined gave me clarity and connections that completely changed my trajectory. I've found mentors who genuinely care about my growth.",
+        "As someone early in my career, I was struggling to find direction. The Leadership Circles at careerReimagined gave me clarity and connections that completely changed my trajectory. I've found mentors who genuinely care about my growth.",
       rating: 5,
       location: "Vancouver, Canada",
     },
@@ -51,7 +51,7 @@ export function EnhancedTestimonials() {
       company: "GrowthLabs",
       image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=400",
       quote:
-        "The authentic conversations and community I found through Careerimagined were exactly what I needed when transitioning from corporate to founding my own company. The support network here is unmatched.",
+        "The authentic conversations and community I found through careerReimagined were exactly what I needed when transitioning from corporate to founding my own company. The support network here is unmatched.",
       rating: 5,
       location: "New Delhi, India",
     },
@@ -62,7 +62,7 @@ export function EnhancedTestimonials() {
       company: "InnovateCo",
       image: "https://images.pexels.com/photos/3184301/pexels-photo-3184301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=400",
       quote:
-        "What sets Careerimagined apart is how they create spaces for genuine connection. It's not networking in the traditional sense—it's about building relationships that help everyone grow. I've found both mentors and mentees here.",
+        "What sets careerReimagined apart is how they create spaces for genuine connection. It's not networking in the traditional sense—it's about building relationships that help everyone grow. I've found both mentors and mentees here.",
       rating: 5,
       location: "Montreal, Canada",
     },

@@ -139,7 +139,7 @@ export function EnhancedFooter() {
               </a>
             </div>
             <p className="text-sm text-white/50">
-              © {new Date().getFullYear()} Careerimagined. Founded by Peali Sarkar. All rights reserved.
+              © {new Date().getFullYear()} careerReimagined. Founded by Peali Sarkar. All rights reserved.
             </p>
           </div>
         </div>
