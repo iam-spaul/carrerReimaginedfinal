@@ -42,7 +42,7 @@ export function Navbar() {
         <div className="container mx-auto flex h-20 items-center justify-between px-4">
           <Link href="/" className="text-2xl font-bold text-white">
             <span className="bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent">Career</span>
-            <span className="text-white">imagined</span>
+            <span className="text-white">Reimagined</span>
           </Link>
 
           <nav className="hidden space-x-8 md:flex">
